@@ -1,4 +1,8 @@
-### Hi there, I am Sanjeet Software Engineer 👋
+## Hi Sanjeet here 👋, 
+#### I am Software Engineer who loves to build stuff 
+#### in all platform, languages and frameworks. 🚀
+
+
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
