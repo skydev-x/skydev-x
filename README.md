@@ -11,8 +11,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dukendev&langs_count=10&layout=compact)]
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dukendev)]
-
 ## Mobile & Desktop
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
