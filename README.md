@@ -9,7 +9,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dukendev)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dukendev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dukendev&langs_count=10)](https://github.com/dukendev/github-readme-stats)
 
 ## Mobile & Desktop
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
