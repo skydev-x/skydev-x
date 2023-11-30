@@ -9,7 +9,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dukendev)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dukendev&langs_count=10&layout=comopact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dukendev&langs_count=10&layout=compact)]
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dukendev)]
 
