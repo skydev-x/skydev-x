@@ -1,4 +1,4 @@
-## Hi Sanjeet here 👋, 
+## Hi Sanjeet here 👋
  I am Software Engineer who loves to build stuff 
  in all platform, languages and frameworks. 🚀
 
