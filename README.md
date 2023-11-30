@@ -51,7 +51,7 @@
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dukendev&langs_count=10&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dukendev&langs_count=9&layout=donut)
 
 
 [![Sanjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=dukendev)](https://github.com/dukendev/github-readme-stats)
