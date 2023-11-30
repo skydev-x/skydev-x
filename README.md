@@ -1,6 +1,6 @@
 ## Hi Sanjeet here 👋, 
-#### I am Software Engineer who loves to build stuff 
-#### in all platform, languages and frameworks. 🚀
+ I am Software Engineer who loves to build stuff 
+ in all platform, languages and frameworks. 🚀
 
 ## Mobile & Desktop
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -50,7 +50,8 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dukendev)](https://git.io/streak-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dukendev&langs_count=10&layout=donut)
 [![Sanjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=dukendev)](https://github.com/dukendev/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dukendev)](https://git.io/streak-stats)
 
