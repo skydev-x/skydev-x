@@ -2,7 +2,7 @@
  I am Software Engineer who loves to build stuff 
  in all platform, languages and frameworks. 🚀
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dukendev)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=skydev-x)](https://git.io/streak-stats)
 
 ## Mobile & Desktop 📱
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -52,9 +52,9 @@
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dukendev&langs_count=10&layout=pie)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skydev-x&langs_count=10&layout=pie)
 
 
-[![Sanjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=dukendev)](https://github.com/dukendev/github-readme-stats)
+[![Sanjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=skydev-x)](https://github.com/skydev-x/github-readme-stats)
 
 
