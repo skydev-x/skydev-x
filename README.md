@@ -4,6 +4,22 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=skydev-x)](https://git.io/streak-stats)
 
+[Arch Config](https://github.com/skydev-x/arch-hypr-config)
+[Neovim --only](https://github.com/skydev-x/nvim-config)
+[NixOS Config](https://github.com/skydev-x/nixos-config)
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Mobile & Desktop 📱
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
