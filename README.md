@@ -3,7 +3,9 @@
  in all platform, languages and frameworks. 🚀
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=skydev-x)](https://git.io/streak-stats)
+
 ---
+
 [Arch Config](https://github.com/skydev-x/arch-hypr-config)
 [Neovim --only](https://github.com/skydev-x/nvim-config)
 [NixOS Config](https://github.com/skydev-x/nixos-config)
