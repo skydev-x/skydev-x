@@ -11,6 +11,7 @@
 [NixOS Config](https://github.com/skydev-x/nixos-config)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skydev-x&langs_count=10&layout=pie)
 
 
 
@@ -86,7 +87,6 @@
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skydev-x&langs_count=10&layout=pie)
 
 
 [![Sanjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=skydev-x)](https://github.com/skydev-x/github-readme-stats)
