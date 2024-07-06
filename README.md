@@ -2,7 +2,7 @@
  I am Software Engineer who loves to build stuff 
  in all platform, languages and frameworks. 🚀
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=skydev-x)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skydev-x&langs_count=10&layout=pie)
 
 ---
 
@@ -11,9 +11,9 @@
 [NixOS Config](https://github.com/skydev-x/nixos-config)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skydev-x&langs_count=10&layout=pie)
 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=skydev-x)](https://git.io/streak-stats)
 
 
 ---
