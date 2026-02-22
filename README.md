@@ -2,8 +2,6 @@
  I am Software Engineer who loves to build stuff 
  in all platform, languages and frameworks. 🚀
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skydev-x&langs_count=10&layout=pie)
-
 ---
 
 [Arch Config](https://github.com/skydev-x/arch-hypr-config)
@@ -17,8 +15,6 @@
 
 
 ---
-
-
 
 
 
@@ -86,9 +82,5 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
-
-
-
-[![Sanjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=skydev-x)](https://github.com/skydev-x/github-readme-stats)
 
 
